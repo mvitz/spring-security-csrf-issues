@@ -1,0 +1,11 @@
+# Mac
+.DS_Store
+
+# Maven
+.mvn/wrapper/MavenWrapperDownloader.java
+target/
+
+# IntelliJ
+*.iml
+.idea/
+
